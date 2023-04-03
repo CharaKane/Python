@@ -3,7 +3,7 @@ y= float (input ("dose to ycos sou:"))
 
 dms=v/y**2
 
-if dms>=15:
+if dms<=15:
     print("Poli sovara lipovaris")
 elif dms<=16:
     print("Sovara lipovaris")
